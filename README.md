@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 ![Image of 132 Breese]
-132breese.com/132 Breese (4).jpg
+(132breese.com/132 Breese (4).jpg)
 
 You can use the [editor on GitHub](https://github.com/marlowjr/132breese.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
