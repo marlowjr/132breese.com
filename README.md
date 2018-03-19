@@ -1,6 +1,7 @@
 ### 132 Breese Podcast
 
-Check out the latest episodes!
+Check out the latest episodes!:
+![Cover art](https://github.com/marlowjr/132breese.com/blob/master/132%20Breese%20(4).jpg?raw=true)
 
 
 ## Episode 1
