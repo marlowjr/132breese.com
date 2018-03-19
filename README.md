@@ -1,7 +1,5 @@
 ### 132 Breese Podcast
 
-<img=src"https://github.com/marlowjr/132breese.com/blob/master/132%20Breese%20(4).jpg?raw=true" alt="132breese.com/132 Breese (4).jpg" style=width:400px;height:400px;">
-
 Check out the latest episodes!
 
 
