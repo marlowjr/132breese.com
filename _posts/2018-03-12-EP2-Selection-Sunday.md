@@ -2,6 +2,7 @@
 layout: post
 title: Ep 2
 subtitle: Selection Sunday
+image: /img/microphone.png
 tag: [Podcast, NCAA]
 ---
 
