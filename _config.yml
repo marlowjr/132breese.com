@@ -106,7 +106,7 @@ url-pretty: "132 Breese"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-116235017-1"
 
 # Google Tag Manager ID
 #gtm: ""
