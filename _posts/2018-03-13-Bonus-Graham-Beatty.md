@@ -2,6 +2,7 @@
 layout: post
 title: Bonus
 subtitle: Graham Beatty
+image: /img/microphone.png
 tags: [Podcast, NCAA]
 ---
 
