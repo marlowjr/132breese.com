@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://marlowjr.github.io"
+url: "http://132breese.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -31,7 +31,6 @@ navbar-links:
     - Google Play: "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/I4vfvs7vemfldxjvqqsy5fckovy?t%3D132_Breese_Podcast%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
     - Stitcher: "http://www.stitcher.com/s?fid=176767&refid=stpr"
     - Overcast: "https://overcast.fm/itunes1353274149/132-breese-podcast"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -102,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "132 Breese"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
