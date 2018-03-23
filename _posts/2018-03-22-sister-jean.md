@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Sister Jean has done it again! (Now get out the way)
-subtitle: @MarlowJr
-image: /img/sister-jean.png/
+subtitle: Marlow
+image: /img/sister-jean.png
 tags: [NCAA,Chicago,Basketball]
 ---
+
 
 Sister Jean has come through in the clutch and won another game for the University of Loyola-Chicago aka Chicago’s Team, aka Casey’s chosen one.  How she keeps delivering is unbelievable.  
 
