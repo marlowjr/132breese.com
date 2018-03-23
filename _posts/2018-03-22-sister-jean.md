@@ -40,3 +40,6 @@ So this is me doing my part to help out the Men of Loyola basketball get their d
 
 Ps. I am probably going to hell now. 
 
+<a href="https://twitter.com/MarlowJr?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MarlowJr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
