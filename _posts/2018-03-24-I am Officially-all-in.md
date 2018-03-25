@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am Officialy on the Bandwagon.
+title: I am Officially on the Bandwagon.
 subtitle: Marlow
 image: /img/sister-jean.png
 tags: [NCAA,Chicago,Basketball]
