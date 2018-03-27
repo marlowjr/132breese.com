@@ -6,7 +6,7 @@ show-avatar: true
 
 ### Ep 4 Sweet 16 & Elite 8
 
-<iframe src="https://embed.radiopublic.com/e?if=132-breese-podcast-Gy0QkZ&ge=s1!2b7e7823bced7f42419016f25d5fdc0ab380082c" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+<iframe src="https://embed.radiopublic.com/e?if=132-breese-podcast-Gy0QkZ&ge=s1!2b7e7823bced7f42419016f25d5fdc0ab380082c" style="border: none; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
 
 
 ***
