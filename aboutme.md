@@ -22,7 +22,7 @@ This is a blurb about Casey
 ### Our Story
 
 
-<form action="https://formspree.io/dean@attalitech.com" method="POST" class="form" id="contact-form">
+<form action="https://formspree.io/mbhicksjr@gmail.com" method="POST" class="form" id="contact-form">
   <p>We love to hear from Fellow Fans. You can send us a quick message using the form below:</p>
   <div class="row">
     <div class="col-xs-6">
