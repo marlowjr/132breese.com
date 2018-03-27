@@ -6,9 +6,10 @@ show-avatar: true
 
 ### Ep 4 Sweet 16 & Elite 8
 
-<iframe src="https://embed.radiopublic.com/e?if=132-breese-podcast-Gy0QkZ&ge=s1!2b7e7823bced7f42419016f25d5fdc0ab380082c" style="border: none; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
 
-<iframe frameborder="0" height="200" scrolling="no" src="https://embed.radiopublic.com/e?if=132-breese-podcast-Gy0QkZ&ge=s1!2b7e7823bced7f42419016f25d5fdc0ab380082c" width="100%"></iframe>
+<iframe src="https://cast.rocks/player/11602/EP-4---Sweet-16---Elite-8.mp3?episodeTitle=EP%204%3A%20Sweet%2016%20%26%20Elite%208&podcastTitle=132%20Breese%20Podcast&episodeDate=March%2026th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+
 ***
 
 ### Ep3 March Madness
@@ -16,7 +17,6 @@ show-avatar: true
 
 <iframe src="https://cast.rocks/player/11602/EP-3---March-Madness.mp3?episodeTitle=Ep%203%3A%20March%20Madness%20%26%20NFL%20Free%20Agency%20&podcastTitle=132%20Breese%20Podcast&episodeDate=March%2019th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
 
-<iframe frameborder="0" height="200" scrolling="no" src="https://embed.radiopublic.com/e?if=132-breese-podcast-Gy0QkZ&ge=s1!32cf594fe61aa83a229f2dc178e3f4b4495c2eaa" width="100%"></iframe>
 
 ---
 
