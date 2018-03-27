@@ -3,6 +3,7 @@ type: post
 title: The Bears are the NFL Loyola, I will take that
 subtitle: Marlow
 image: /img/mich.jpg
+date: 2018-03-26 08:32:01 -0600
 tags: [Blog, Bears, Footbal, Marlow]
 ---
 
