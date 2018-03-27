@@ -23,7 +23,7 @@ This is a blurb about Casey
 
 
 <form action="https://formspree.io/dean@attalitech.com" method="POST" class="form" id="contact-form">
-  <p>You can also send me a quick message using the form below:</p>
+  <p>We love to hear from Fellow Fans. You can send us a quick message using the form below:</p>
   <div class="row">
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
