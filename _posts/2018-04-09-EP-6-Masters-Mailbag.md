@@ -1,8 +1,8 @@
 ---
 type: post
 title: Ep 6
-Subtitle: Masters + Mailbag
-image: /img/microphoe.png
+subtitle: Masters + Mailbag
+image: /img/microphone.png
 tags: [Podcast, Masters, NFL, Mailbag, eSports]
 ---
 
