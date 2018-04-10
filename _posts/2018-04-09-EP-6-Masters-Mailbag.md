@@ -7,9 +7,6 @@ tags: [Podcast, Masters, NFL, Mailbag, eSports]
 ---
 
 
-
-### *Episode Summary:*
-
 The boys talk about the Masters and if it really happened.  How exciting it was that Tiger made the cut and golfers being tough.  Take a look back at the sights and sounds of the National Championship game, DiVincenzo need we say more.  Hot NFL takes because there is no off season.  132 Breese is officially an eSport friendly podcast.  All the coverage from the  NBA2KL Draft and the Big Ten League of Legends Championship.  Mailbag! The guys take questions from Fellow Fans.
 
 
