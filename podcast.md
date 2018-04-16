@@ -1,7 +1,9 @@
 ---
 type: page
 title: Episodes
+meta-title: "132 Breese Podcast"
 show-avatar: true
+share-img: /img/132 Breese (4).jpg
 ---
 
 ### Ep 7- NBA Playoffs + MLB fights & Chloe Kardashian Tristan Thompson Drama
