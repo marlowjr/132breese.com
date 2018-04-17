@@ -2,7 +2,7 @@
 type: post
 title: EP 7
 subtitle: NBA Playoffs + MLB fights & Chloe Kardashian Tristan Thompson Drama
-image: img/microphone.png
+image: /img/microphone.png
 tags: [Podcast, NBA, Playoffs, MLB, Kardashian]
 ---
 
