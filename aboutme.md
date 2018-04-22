@@ -7,10 +7,16 @@ subtitle: Your Hosts of the 132 Breese Podcast
 # Marlow
 ![marlow](img/marlow-head-shot.png) <a href="https://twitter.com/marlowjr?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MarlowJr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-this is a blurb about Marlow. 
+Born and raised all over this country (no I was not a military kid) I found a home when I set foot on the University of Wisconsin Campus. I spent the next four years pretending to be an athlete, majoring in partying, while trying to fit in school.  It all worked out in the end now that I have turned my everyday conversation with those friends into what we are calling a podcast.  
 
-- Live in Chicago
-- Have a cat
+Currently living in Chicago in the shadows of Wriggly Feild, that I want to burn to the ground. 
+
+Fan of:
+- Badgers
+- Bear
+- Bulls
+- White Sox
+- Blackhawks
 
 What else do you need?
 
