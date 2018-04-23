@@ -6,6 +6,18 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 8- NFL Draft Preview
+
+<iframe src="https://cast.rocks/player/11602/EP-8-NFL-Draft-Preview.mp3?episodeTitle=Ep%208%3A%20NFL%20Draft%20Preview&podcastTitle=132%20Breese%20Podcast&episodeDate=April%2023rd%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="ridge: none; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+***
+
+### Bonus: Casey's Corner Kick ft Pitch Side
+
+<iframe src="https://cast.rocks/player/11602/Caseys-Corner-Kick-ft-Pitch-Side.mp3?episodeTitle=Bonus%3A%20Casey's%20Corner%20Kick%20ft%20Pitch%20Side&podcastTitle=132%20Breese%20Podcast&episodeDate=April%2018th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+***
+
 ### Ep 7- NBA Playoffs + MLB fights & Chloe Kardashian Tristan Thompson Drama
 
 <iframe src="https://cast.rocks/player/11602/EP-7---NBA-Playoffs---Kardashian-.mp3?episodeTitle=EP%207%3A%20NBA%20Playoffs%20%2B%20MLB%20Fights%20%26%20%20Khloe%20Kardashian%20Tristan%20Thompson%20drama%20break%20down%20&podcastTitle=132%20Breese%20Podcast&episodeDate=April%2016th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
