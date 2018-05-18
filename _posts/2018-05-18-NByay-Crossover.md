@@ -2,7 +2,7 @@
 type: post
 title: NB-Yay Crossover
 subtitle: NBA Minisode with Marlow Hicks
-image: /img/microphone.png
+image: /img/NB-YAY.jpg
 tags: [NBA, Playoffs]
 ---
 
