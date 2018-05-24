@@ -6,6 +6,12 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 12- Dj Shawna + Hard Knocks
+
+<iframe src="https://cast.rocks/player/11602/Ep-12-DJ-Shawna-Hard-Knocks.mp3?episodeTitle=Ep%2012%3A%20DJ%20Shawna%20%2B%20Hard%20Knocks%20&podcastTitle=132%20Breese%20Podcast&episodeDate=May%2021st%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+***
+
 ### Ep 11- Mother's Day + MJ vs LBJ & Darren Rovell
 
 <iframe src="https://cast.rocks/player/11602/EP-11-Mother-s-day-MJ-vs-LeBron.mp3?episodeTitle=Ep%2011%3A%20Mother's%20Day%20%2B%20MJ%20vs%20LBJ%20%26%20Darren%20Rovell&podcastTitle=132%20Breese%20Podcast&episodeDate=May%2014th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
