@@ -2,7 +2,7 @@
 layout: post
 title: Ep 9
 subtitle: NFL Draft Preview
-image: /imh/microphone.png
+image: /img/microphone.png
 tags: [Podcast, NFL]
 ---
 
