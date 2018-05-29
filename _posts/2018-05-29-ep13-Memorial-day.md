@@ -2,7 +2,7 @@
 layout: post
 title: Ep 13
 subtitle: Memorial Day + eSport Fights
-image: img/microphone.png
+image: /img/microphone.png
 tags: [Podcast, NBA, NHL,]
 ---
 
