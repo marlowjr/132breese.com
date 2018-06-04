@@ -6,6 +6,12 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 14- 2-0 + Burner Accounts & Pusha T 
+
+<iframe src="https://cast.rocks/player/11602/Ep-14-2-0-Burner-Accounts-.mp3?episodeTitle=Ep%2014%3A%202-0%20%2B%20Burner%20Accounts%20%26%20Pusha%20T&podcastTitle=132%20Breese%20Podcast&episodeDate=June%204th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+***
+
 ### Ep 13- Memorial Day + eSport Fights
 
 <iframe src="https://cast.rocks/player/11602/Ep-13---Memorial-Day---eSport-Fights-.mp3?episodeTitle=Ep%2013%3A%20Memorial%20Day%20%2B%20eSport%20Fights%20&podcastTitle=132%20Breese%20Podcast&episodeDate=May%2029th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
