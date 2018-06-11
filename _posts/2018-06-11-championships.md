@@ -2,7 +2,7 @@
 type: post
 title: Ep 15
 subtitle: Championships for the Fans
-imgage: /img/Championships.jpg
+imgage: /img/Championships-small.jpg
 tags: [Podcast, NBA, NHL]
 ---
 
