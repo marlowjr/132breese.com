@@ -6,6 +6,12 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 15- Championships for the Fans
+
+<iframe src="https://cast.rocks/player/11602/Ep-15-Championships-for-the-Fans.mp3?episodeTitle=Ep%2015%3A%20Championships%20for%20the%20Fans&podcastTitle=132%20Breese%20Podcast&episodeDate=June%2011th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+***
+
 ### Ep 14- 2-0 + Burner Accounts & Pusha T 
 
 <iframe src="https://cast.rocks/player/11602/Ep-14-2-0-Burner-Accounts-.mp3?episodeTitle=Ep%2014%3A%202-0%20%2B%20Burner%20Accounts%20%26%20Pusha%20T&podcastTitle=132%20Breese%20Podcast&episodeDate=June%204th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
