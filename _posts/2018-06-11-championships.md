@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Ep 15
 subtitle: Championships for the Fans
 imgage: /img/Championships-small.jpg
