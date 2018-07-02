@@ -6,6 +6,12 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 18- LeBron to the Lakers + We are a Nerd Podcast Now
+
+<iframe src="https://cast.rocks/player/11602/Ep-18-LeBron-to-the-Lakers.mp3?episodeTitle=Ep%2018%3A%20LeBron%20to%20the%20Lakers%20%2B%20We%20are%20a%20Nerd%20Podcast%20Now&podcastTitle=132%20Breese%20Podcast&episodeDate=July%202nd%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="ridge: none; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
 ### Ep 17- NBA Draft + Lionel Messi
 
 <iframe src="https://cast.rocks/player/11602/Ep-17-NBA-Draft.mp3?episodeTitle=Ep%2017%3A%20NBA%20Draft%20%2B%20Lionel%20Messi&podcastTitle=132%20Breese%20Podcast&episodeDate=June%2026th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
