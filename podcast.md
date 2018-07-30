@@ -6,6 +6,30 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 22- Jonathan Orr + NFL Camp
+
+<iframe src="https://cast.rocks/player/11602/Ep-22-Jonathan-Orr---NFL-Camp.mp3?episodeTitle=Ep%2022%3A%20Jonathan%20Orr%20%2B%20NFL%20Camp&podcastTitle=132%20Breese%20Podcast&episodeDate=July%2030th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 21- The Worst Week in Sports
+
+<iframe src="https://cast.rocks/player/11602/Ep-21-The-Worst-Week-in-Sports.mp3?episodeTitle=Ep%2021%3A%20The%20Worst%20Week%20in%20Sports&podcastTitle=132%20Breese%20Podcast&episodeDate=July%2023rd%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 20- Jay From Double Yay + Word Cup Final
+
+<iframe src="https://cast.rocks/player/11602/Ep-20-Jay-from-Double-Yay-World-Cup-Final.mp3?episodeTitle=Ep%2020%3A%20Jay%20From%20Double%20Yay%20%2B%20World%20Cup%20Final&podcastTitle=132%20Breese%20Podcast&episodeDate=July%2016th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 19- NBA Summer + NFL Almost Back
+
+<iframe src="https://cast.rocks/player/11602/Ep-19-NBA-Summer-NFL-Almost-Back.mp3?episodeTitle=Ep%2019%3A%20NBA%20Summer%20%2BNFL%20is%20Almost%20Back&podcastTitle=132%20Breese%20Podcast&episodeDate=July%209th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
 ### Ep 18- LeBron to the Lakers + We are a Nerd Podcast Now
 
 <iframe src="https://cast.rocks/player/11602/Ep-18-LeBron-to-the-Lakers.mp3?episodeTitle=Ep%2018%3A%20LeBron%20to%20the%20Lakers%20%2B%20We%20are%20a%20Nerd%20Podcast%20Now&podcastTitle=132%20Breese%20Podcast&episodeDate=July%202nd%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="ridge: none; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
