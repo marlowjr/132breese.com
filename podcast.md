@@ -6,6 +6,36 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 27- Football SZN is Back!
+
+<iframe src="https://cast.rocks/player/11602/Ep-27-Football-SZN-is-Back.mp3?episodeTitle=Ep%2027%3A%20Football%20SZN%20is%20Back!&podcastTitle=132%20Breese%20Podcast&episodeDate=September%204th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 26- We Made it to Football
+
+<iframe src="https://cast.rocks/player/11602/Ep-26-We-Made-it-to-Football.mp3?episodeTitle=Ep%2026%3A%20We%20Made%20it%20to%20Football&podcastTitle=132%20Breese%20Podcast&episodeDate=August%2027th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 25- We are Live + Duke is Back
+
+<iframe src="https://cast.rocks/player/11602/Ep-25-We-are-Live.mp3?episodeTitle=Ep%2025%3A%20We%20are%20Live%20%2B%20Duke%20is%20Back&podcastTitle=132%20Breese%20Podcast&episodeDate=August%2020th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 24- NFL Preseason Week + Hardk Knocks
+
+<iframe src="https://cast.rocks/player/11602/Ep-24-Preseason-week-1-Hard-knocks-.mp3?episodeTitle=Ep%2024%3A%20NFL%20Preseason%20Week%201%20%2B%20Hard%20Knocks%20Review%20&podcastTitle=132%20Breese%20Podcast&episodeDate=August%2013th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 23- NFL Hall of Fame Game 
+
+<iframe src="https://cast.rocks/player/11602/Ep-23-NFL-Hall-of-Fame.mp3?episodeTitle=Ep%2023%3A%20NFL%20Hall%20of%20Fame&podcastTitle=132%20Breese%20Podcast&episodeDate=August%208th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
 ### Ep 22- Jonathan Orr + NFL Camp
 
 <iframe src="https://cast.rocks/player/11602/Ep-22-Jonathan-Orr---NFL-Camp.mp3?episodeTitle=Ep%2022%3A%20Jonathan%20Orr%20%2B%20NFL%20Camp&podcastTitle=132%20Breese%20Podcast&episodeDate=July%2030th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
