@@ -6,6 +6,42 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 31.2- NFL Week 5 w/Scoot + Kobe Gif Gate
+
+<iframe src="https://cast.rocks/player/11602/Ep-32.2-Week-5-with-Scott.mp3?episodeTitle=Ep%2032.2%3A%20NFL%20Week%205%20w%2F%20Scott%20%2B%20Kobe%20Gif%20Gate&podcastTitle=132%20Breese%20Podcast&episodeDate=October%208th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 31.1- Live Reax Wisconsin vs Nebraska + Brewers 
+
+<iframe src="https://cast.rocks/player/11602/Ep-32.1-Live-reax-Wisconsin-v-Nebraska-.mp3?episodeTitle=Ep%2032.1%3A%20Live%20Reax%20Wisconsin%20vs%20Nebraska%20%2B%20Brewers!!!%20&podcastTitle=132%20Breese%20Podcast&episodeDate=October%208th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 31- Bye Week + We Talk Baseball Now!
+
+<iframe src="https://cast.rocks/player/11602/Ep-31-Bye-Week.mp3?episodeTitle=Ep%2031%3A%20Bye%20Week%20%2B%20We%20Talk%20Baseball%20Now!&podcastTitle=132%20Breese%20Podcast&episodeDate=October%201st%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 30- B1G Opener + Tiger is Back for Real
+
+<iframe src="https://cast.rocks/player/11602/Ep-30-B1G-Opener-.mp3?episodeTitle=Ep%2030%3A%20B1G%20Opener%20%2B%20Tiger%20is%20Back%20For%20Real&podcastTitle=132%20Breese%20Podcast&episodeDate=September%2024th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 29- We Will Learn a Lot
+
+<iframe src="https://cast.rocks/player/11602/Ep-29-We-Will-Learn-a-Lot.mp3?episodeTitle=Ep%2029%3A%20We%20Will%20Learn%20a%20Lot&podcastTitle=132%20Breese%20Podcast&episodeDate=September%2017th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 28- NFL Week 1 Reax
+
+<iframe src="https://cast.rocks/player/11602/ep-28-NFL-week-1.mp3?episodeTitle=Ep%2028%3A%20NFL%20Week%201%20Reax&podcastTitle=132%20Breese%20Podcast&episodeDate=September%2010th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
 ### Ep 27- Football SZN is Back!
 
 <iframe src="https://cast.rocks/player/11602/Ep-27-Football-SZN-is-Back.mp3?episodeTitle=Ep%2027%3A%20Football%20SZN%20is%20Back!&podcastTitle=132%20Breese%20Podcast&episodeDate=September%204th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
