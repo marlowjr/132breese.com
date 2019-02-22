@@ -6,13 +6,127 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
-### Ep 31.2- NFL Week 5 w/Scoot + Kobe Gif Gate
+### Ep 51- NBA All Star Weekend + Badgers are Just OK
+
+<iframe src="https://cast.rocks/player/11602/Ep-51-NBA-All-Star-Weekend.mp3?episodeTitle=Ep%2051%3A%20NBA%20All%20Star%20Weekend%20%2B%20Badgers%20are%20Just%20OK&podcastTitle=132%20Breese%20Podcast&episodeDate=February%2019th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 50- The AAF + NBA Trade Deadline & Halfway to 100
+
+<iframe src="https://cast.rocks/player/11602/Ep-50-Alliance-of-American-Football.mp3?episodeTitle=Ep%2050%3A%20The%20AAF%20%2B%20NBA%20Trade%20Deadline%20%26%20Halfway%20to%20100&podcastTitle=132%20Breese%20Podcast&episodeDate=February%2011th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 49- Post Super Bowl Extravaganza
+
+<iframe src="https://cast.rocks/player/11602/Ep-49-Post-Super-Bowl-Extravaganza.mp3?episodeTitle=Ep%2049%3A%20Post%20Super%20Bowl%20Extravaganza%20&podcastTitle=132%20Breese%20Podcast&episodeDate=February%205th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 48- Super Bowl Prop Bets + American Football Alliance
+
+<iframe src="https://cast.rocks/player/11602/Ep-48-Super-Bowl-Prop-Bets.mp3?episodeTitle=Ep%2048%3A%20Super%20Bowl%20Prop%20Bets%20%2B%20American%20Football%20Alliance%20&podcastTitle=132%20Breese%20Podcast&episodeDate=January%2029th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 47- NFL Campionship Sunday + We Beat Michiagan 
+
+<iframe src="https://cast.rocks/player/11602/Ep-47-NFL-Championship-Sunday.mp3?episodeTitle=Ep%2047%3A%20NFL%20Championship%20Sunday%20%2B%20We%20Beat%20Michigan&podcastTitle=132%20Breese%20Podcast&episodeDate=January%2021st%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 46- NFL Divisional + Things on the Internet
+
+<iframe src="https://cast.rocks/player/11602/Ep-46-NFL-Divisional-Weekend.mp3?episodeTitle=Ep%2046%3A%20NFL%20Divisional%20%2B%20Things%20on%20the%20Internet%20%20&podcastTitle=132%20Breese%20Podcast&episodeDate=January%2014th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 45-  Marlow is not Dead + Winners & Losers of Wild Card Weekend
+
+<iframe src="https://cast.rocks/player/11602/Ep-45-Wild-Card-Weekend.mp3?episodeTitle=Ep%2045%3A%20Marlow%20is%20not%20Dead%20%2B%20Winners%20%26%20Losers%20of%20Wild%20Card%20Weekend&podcastTitle=132%20Breese%20Podcast&episodeDate=January%207th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 44- Bowl Games + NFL Week 17 & 2019 Hot Takes
+
+<iframe src="https://cast.rocks/player/11602/Ep-44-Bowl-Games.mp3?episodeTitle=Ep%2044%3A%20Bowl%20Games%20%2B%20NFL%20Week%2017%20%26%202019%20Hot%20Takes&podcastTitle=132%20Breese%20Podcast&episodeDate=January%201st%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 43- NFL Week 16 + WTF Urban Meyer
+
+<iframe src="https://cast.rocks/player/11602/Ep-43-NFL-Week-16.mp3?episodeTitle=Ep%2043%3A%20NFL%20Week%2016%20%2B%20WTF%20Urban%20Meyer%3F&podcastTitle=132%20Breese%20Podcast&episodeDate=December%2024th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 42- Playoff Picture + Proposal Advice
+
+<iframe src="https://cast.rocks/player/11602/Ep-42-Playoff-Picture.mp3?episodeTitle=Ep%2042%3A%20Playoff%20Picture%20%2B%20Proposal%20Advise%20%20&podcastTitle=132%20Breese%20Podcast&episodeDate=December%2017th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 41- Is Marquette a Rival + Jakubs 
+
+<iframe src="https://cast.rocks/player/11602/Ep-41-Is-Marquette-a-Rival----Jakubs.mp3?episodeTitle=Ep%2041%3A%20Is%20Marquette%20a%20Rival%3F%20%2B%20Jakubs&podcastTitle=132%20Breese%20Podcast&episodeDate=December%2010th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 40- Pink Slip
+
+<iframe src="https://cast.rocks/player/11602/Ep-40-Pink-Slip.mp3?episodeTitle=Ep%2040%3A%20Pink%20Slip&podcastTitle=132%20Breese%20Podcast&episodeDate=December%203rd%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 39- Well That's Over
+
+<iframe src="https://cast.rocks/player/11602/Ep-39-Well-Thats-Over.mp3?episodeTitle=Ep%2039%3A%20Well%20That's%20Over&podcastTitle=132%20Breese%20Podcast&episodeDate=November%2026th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 38- Give Thanks
+
+<iframe src="https://cast.rocks/player/11602/Ep-38-Give-Thanks.mp3?episodeTitle=Ep%2038%3A%20Give%20Thanks&podcastTitle=132%20Breese%20Podcast&episodeDate=November%2020th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 37- Moving on + Jukubs from Bucks Leading Radio
+
+<iframe src="https://cast.rocks/player/11602/Ep-37-Moving-on.mp3?episodeTitle=Ep%2037%3A%20Moving%20On%20%2B%20Jakubs%20from%20Bucks%20Leading%20Radio&podcastTitle=132%20Breese%20Podcast&episodeDate=November%2012th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 36- Live Reax from Packers Patriots + Basketball is Back
+
+<iframe src="https://cast.rocks/player/11602/Ep-36.mp3?episodeTitle=Ep%2036%3A%20Live%20Reax%20from%20Packers%20Patriots%20%2B%20Basketball%20is%20Back&podcastTitle=132%20Breese%20Podcast&episodeDate=November%205th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 35- Everything is Just Fine...Not
+
+<iframe src="https://cast.rocks/player/11602/Ep-35-Everything-is-Fine.mp3?episodeTitle=Ep%2035%3A%20Everything%20is%20Just%20Fine...Not&podcastTitle=132%20Breese%20Podcast&episodeDate=October%2029th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 34- Game 7 NCLS + Badgers of Illini
+
+<iframe src="https://cast.rocks/player/11602/Ep-34-Game-7-.mp3?episodeTitle=EP%2034%3A%20Game%207%20NLCS%20%2B%20Badgers%20over%20Illini&podcastTitle=132%20Breese%20Podcast&episodeDate=October%2023rd%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+
+
+### Ep 33- Sports Hangover + NBA is Back!
+
+<iframe src="https://cast.rocks/player/11602/Ep-33-Sports-Hangover---NBA-is-Back.mp3?episodeTitle=Ep%2033%3A%20Sports%20Hangover%20%2B%20NBA%20is%20Back!&podcastTitle=132%20Breese%20Podcast&episodeDate=October%2017th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 32.2- NFL Week 5 w/Scoot + Kobe Gif Gate
 
 <iframe src="https://cast.rocks/player/11602/Ep-32.2-Week-5-with-Scott.mp3?episodeTitle=Ep%2032.2%3A%20NFL%20Week%205%20w%2F%20Scott%20%2B%20Kobe%20Gif%20Gate&podcastTitle=132%20Breese%20Podcast&episodeDate=October%208th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
 
 ---
 
-### Ep 31.1- Live Reax Wisconsin vs Nebraska + Brewers 
+### Ep 32.1- Live Reax Wisconsin vs Nebraska + Brewers 
 
 <iframe src="https://cast.rocks/player/11602/Ep-32.1-Live-reax-Wisconsin-v-Nebraska-.mp3?episodeTitle=Ep%2032.1%3A%20Live%20Reax%20Wisconsin%20vs%20Nebraska%20%2B%20Brewers!!!%20&podcastTitle=132%20Breese%20Podcast&episodeDate=October%208th%2C%202018&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
 
