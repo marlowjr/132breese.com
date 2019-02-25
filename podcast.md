@@ -6,6 +6,12 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 52- Feels Like March + Robert Kraft Busted & Our Friend Tristan Thompson is Back
+
+<iframe src="https://cast.rocks/player/11602/Ep-52-Robert-Kraft-Tristan-Thompson.mp3?episodeTitle=Ep%2052%3A%20Feels%20Like%20March%20%2B%20Robert%20Kraft%20Busted%20%26%20our%20friend%20Tristan%20Thompson%20is%20back&podcastTitle=132%20Breese%20Podcast&episodeDate=February%2025th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
 ### Ep 51- NBA All Star Weekend + Badgers are Just OK
 
 <iframe src="https://cast.rocks/player/11602/Ep-51-NBA-All-Star-Weekend.mp3?episodeTitle=Ep%2051%3A%20NBA%20All%20Star%20Weekend%20%2B%20Badgers%20are%20Just%20OK&podcastTitle=132%20Breese%20Podcast&episodeDate=February%2019th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
