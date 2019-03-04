@@ -23,7 +23,11 @@ What else do you need?
 # Casey 
   ![casey](img/imageedit_3_5873510159.png) <a href="https://twitter.com/profbadgerfan?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @profbadgerfan</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This is a blurb about Casey 
+Born and raised with an everything Wisconsin Fan; Badgers, Packers, Brewers, Bucks. During
+my time at Wisconsin, I realized that one of the best parts of being a student is the commodore
+that comes along from the shared experiences, but most notably of rooting for the Badgers.
+With this podcast, I am hoping that we can continue sharing such experiences with our Fellow
+Fans as we root for, or against, our teams. 
 
 ### Our Story
 
