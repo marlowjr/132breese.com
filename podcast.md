@@ -6,6 +6,12 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 55- Selection Sunday + College Scandal
+
+<iframe src="https://cast.rocks/player/11602/Ep-55-Selection-Sunday-.mp3?episodeTitle=Ep%2055%3A%20Selection%20Sunday%20%2B%20College%20Scandal&podcastTitle=132%20Breese%20Podcast&episodeDate=March%2018th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
 ### Ep 54- Conference Championships +Antonio Brown Traded + Hornibrook to FSU & Arod Loves JLo
 
 <iframe src="https://cast.rocks/player/11602/Ep-54-Antonio-Brown-Traded.mp3?episodeTitle=Ep%2054%3A%20Conference%20Championships%20%2BAntonio%20Brown%20Traded%20%2B%20Hornibrook%20to%20FSU%20%26%20Arod%20Love%20JLo&podcastTitle=132%20Breese%20Podcast&episodeDate=March%2011th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
