@@ -6,6 +6,72 @@ show-avatar: true
 share-img: /img/132 Breese (4).jpg
 ---
 
+### Ep 69- NBA Draft + Giannis is MVP
+
+<iframe src="https://cast.rocks/player/11602/Ep-69-NBA-Draft-Gianis-is-MVP.mp3?episodeTitle=Ep%2069%3A%20NBA%20Draft%20%2B%20Giannis%20is%20MVP%20&podcastTitle=132%20Breese%20Podcast&episodeDate=June%2025th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 68- The New NBA + World Cup 
+
+<iframe src="https://cast.rocks/player/11602/Ep-68-The-New-NBA---World-Cup-.mp3?episodeTitle=Ep%2068%3A%20The%20New%20NBA%20%2B%20World%20Cup&podcastTitle=132%20Breese%20Podcast&episodeDate=June%2018th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 67- How did we get here
+
+<iframe src="https://cast.rocks/player/11602/Ep-67-How-did-we-get-Here.mp3?episodeTitle=Ep%2067%3A%20How%20did%20we%20get%20Here&podcastTitle=132%20Breese%20Podcast&episodeDate=June%2010th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 66- NBA Finlas Game 2 + Old Man Takes
+
+<iframe src="https://cast.rocks/player/11602/Ep-66-NBA-Finals-Game-2-.mp3?episodeTitle=Ep%2066%3A%20NBA%20Finals%20Game%202%20%2B%20Old%20Man%20Takes&podcastTitle=132%20Breese%20Podcast&episodeDate=June%203rd%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 65- Bucks Season is Ova
+
+<iframe src="https://cast.rocks/player/11602/Ep-65-Bucks-Season-is-Ova.mp3?episodeTitle=Ep%2065%3A%20Bucks%20Season%20is%20Ova%20&podcastTitle=132%20Breese%20Podcast&episodeDate=May%2028th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 64- Bucks 2OT lose + The West is Over
+
+<iframe src="https://cast.rocks/player/11602/Ep-64-Bucks-2OT-loss.mp3?episodeTitle=Ep%2064%20Bucks%202OT%20Loss%20%2BThe%20West%20is%20Over&podcastTitle=132%20Breese%20Podcast&episodeDate=May%2020th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 63- Mother's Day + NBA Game 7s
+
+<iframe src="https://cast.rocks/player/11602/Ep-63-Mothers-day-Game-7s.mp3?episodeTitle=Ep%2063%3A%20Mother's%20Day%20NBA%20Game%207s&podcastTitle=132%20Breese%20Podcast&episodeDate=May%2013th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 62- Kentucky Derby, Maimum Security got Robbed
+
+<iframe src="https://cast.rocks/player/11602/Ep-62-Kentucky-Derby-.mp3?episodeTitle=Ep%2062%3A%20Kentucky%20Derby%2C%20Maximum%20Security%20got%20robbed%20&podcastTitle=132%20Breese%20Podcast&episodeDate=May%206th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 61- NFL Draft + Not a Fun Sports Day
+
+<iframe src="https://cast.rocks/player/11602/Ep-61-NFL-Draft.mp3?episodeTitle=Ep%2061%3A%20NFL%20Draft%20%2B%20Not%20a%20Fun%20Sports%20Day&podcastTitle=132%20Breese%20Podcast&episodeDate=April%2029th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 60- NBA Playoffs + Transfer Portal +NFL Schedule & NHL Playoffs
+
+<iframe src="https://cast.rocks/player/11602/Ep-60-NBA-Playoffs-.mp3?episodeTitle=Ep%2060%3A%20NBA%20Playoffs%20%2B%20Transfer%20Portal%20%2B%20NFL%20Schedule%20%26%20NHL%20Hockey%20Playoffs%20%20&podcastTitle=132%20Breese%20Podcast&episodeDate=April%2022nd%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: none; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
+### Ep 59- Tiger is Back! So is NBA Playoffs 
+
+<iframe src="https://cast.rocks/player/11602/Ep-59-Tiger-Wins-The-Masters-.mp3?episodeTitle=Ep%2059%3A%20Tiger%20is%20Back!%20So%20is%20NBA%20Playoffs&podcastTitle=132%20Breese%20Podcast&episodeDate=April%2015th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
+
+---
+
 ### Ep 58- Final Four + RIP AAF
 
 <iframe src="https://cast.rocks/player/11602/Ep-58-Final-Four-.mp3?episodeTitle=Ep%2058%3A%20Final%20Four%20%2BRIP%20AAF%20&podcastTitle=132%20Breese%20Podcast&episodeDate=April%208th%2C%202019&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F11602%2Ffeeds%2F6RG37.jpg&itunesLink=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2F132-breese-podcast%2Fid1353274149%3Fmt%3D2" style="border: ridge; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
